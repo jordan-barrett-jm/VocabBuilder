@@ -57,7 +57,7 @@ export default function QuizPage() {
     return (
       <div className="p-8 text-center">
         <h1 className="text-2xl font-semibold">Done for now!</h1>
-        <p>You've reviewed {words.length} words.</p>
+        <p>You have reviewed {words.length} words.</p>
       </div>
     );
   }
